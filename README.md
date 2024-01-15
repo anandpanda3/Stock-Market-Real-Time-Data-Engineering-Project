@@ -16,7 +16,7 @@ We are going to use different technologies such as Python, Amazon Web Services (
 3. Glue Crawler
 4. Glue Catalog
 5. EC2
-
+- Apacha Kafke
 
 ## Dataset Used
 You can use any dataset, we are mainly interested in operation side of Data Engineering (building data pipeline) 
